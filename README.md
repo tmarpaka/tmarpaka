@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tmarpaka
-- 👀 I’m interested in systemverilog, uvm.
-- 🌱 I’m currently learning systemverilog
-- 💞️ I’m looking to collaborate on creating testbenches for verifying communication protocols.
-- 📫 How to reach me tushar.marpaka@gmail.com | twitter.com/tusharmarpaka
+- 👋 Hi, I’m @tmarpaka.
 
 <!---
 tmarpaka/tmarpaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
